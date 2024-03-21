@@ -31,40 +31,12 @@ Key Features:
 - Stripe webhooks
 - MySQL + Prisma + PlanetScale
 
-### Prerequisites
+### Credit to Code With Antonio 
+https://www.codewithantonio.com/
 
-**Node version 14.x**
+## Acknowledgements
 
-### Cloning the repository
+I would like to express my gratitude to Code With Antonio for his invaluable tutorials. Their clear explanations and insightful examples greatly contributed to my understanding of this project, 
 
-```shell
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-store.git
-```
-
-### Install packages
-
-```shell
-npm i
-```
-
-### Setup .env file
-
-
-```js
-NEXT_PUBLIC_API_URL=
-```
-
-
-### Start the app
-
-```shell
-npm run dev
-```
-
-## Available commands
-
-Running commands with npm `npm run [command]`
-
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
+- **[Code with Antonio]**:
+https://www.youtube.com/watch?v=5miHyP6lExg
